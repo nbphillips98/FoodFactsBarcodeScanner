@@ -52,3 +52,4 @@ Contributions, issues, and feature requests are welcome! Feel free to check [iss
 
 This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
 ```
+I, Nathaniel Phillips, Zoe Luter, and Elisabeth Federici want to utilize this code to help people with hypertension determine of a food item is good for them
